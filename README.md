@@ -7,6 +7,7 @@
 
 - 📫 How to reach me **anuragnagare77@gmail.com**
 
+![giphy](https://github.com/AnuragNagare/AnuragNagare/assets/85473989/30f665f1-74c6-4d1b-8886-717e2d7883b8)
 
 
 <h3 align="left">Languages and Tools:</h3>
